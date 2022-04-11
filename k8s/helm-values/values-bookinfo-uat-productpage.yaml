@@ -17,3 +17,4 @@ extraEnv:
   DETAILS_HOSTNAME: https://uat.konmek.cloud/details
   REVIEWS_HOSTNAME: https://uat.konmek.cloud/reviews
   FLOOD_FACTOR: 0
+  COMMIT_SHA: CHANGEME
