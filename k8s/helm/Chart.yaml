@@ -3,9 +3,9 @@ description: Bookinfo ProductPage Service Helm Chart
 name: bookinfo-productpage
 version: 1.0.0
 appVersion: 1.0.0
-home: http://opsta.parfet.in.th/productpage
+home: http://opsta.konmek.cloud/productpage
 maintainers:
   - name: nattaphonmek
     email: nattaphon.mek@mail.kmutt.ac.th
 sources:
-  - https://github.com/NattaphonMek/opsta-bootcamp-bookinfo
+  - https://github.com/NattaphonMek/sitkmutt-bookinfo-productpage
